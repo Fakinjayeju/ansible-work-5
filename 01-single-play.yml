@@ -1,5 +1,5 @@
 ---
-- name: Update n1 servers
+- name: Update n1 server
   hosts: n1
 
   tasks:
